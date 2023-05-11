@@ -1,0 +1,12 @@
+# zip file
+*.zip
+*.pdf
+
+# other files/folders
+Project\ 1/blogs
+Project\ 1/checkpoint
+Project\ 1/data.pickle
+Project\ 1/glove.6B.300d.txt
+
+Project\ 2/.tmp*
+Project\ 2/glove*
